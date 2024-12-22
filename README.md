@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, there! I am....<br><br>🧑🏻‍💻 **A Computer Science Student Aspiring to Be a Backend Developer**<br><br>🧑🏻‍💻 **백엔드 개발자를 꿈꾸는 컴퓨터 과학 전공 대학생**
+Hello, there! I am....<br><br>🧑🏻‍💻 **A Computer Science Student Aspiring to Be a Backend Developer**<br><br>🧑🏻‍💻 **백엔드 개발자를 꿈꾸는 컴퓨터 과학 전공 대학생 입니다**
 
 
 ## 🌐 Socials:
