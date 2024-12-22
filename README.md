@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, there! I am....<br><br>🧑🏻‍💻 **A Computer Science Student Aspiring to Be a Backend Developer** <br>I enjoy growing through continuous learning and am passionate about delivering better user experieces with efficient and reliable services.<br><br>🧑🏻‍💻 **백엔드 개발자를 꿈꾸는 컴퓨터 과학 전공 대학생**<br>꾸준한 학습을 통한 성장을 즐기며, 효율적이며 안정적인 서비스로 더 나은 사용자 경험을 제공하는 데 열정이 있습니다.
+Hello, there! I am....<br><br>🧑🏻‍💻 **A Computer Science Student Aspiring to Be a Backend Developer**<br><br>🧑🏻‍💻 **백엔드 개발자를 꿈꾸는 컴퓨터 과학 전공 대학생**
 
 
 ## 🌐 Socials:
